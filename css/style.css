@@ -147,3 +147,14 @@ body{
     }
 } */
 
+
+
+@media(max-width: 812px){
+    .header-overlay{
+        background: url(../img/bg.png) no-repeat center top fixed; 
+         background-size: cover;
+    }
+    video{
+     display: none;  
+    }
+}
